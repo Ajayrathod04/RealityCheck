@@ -1,5 +1,12 @@
 # 👻 RealityCheck
 
+[![Rote Play](https://img.shields.io/badge/Rote%20Play-reality--check%400.1.0-blue)](https://play.modiqo.ai/ajayrathod04/reality-check@0.1.0)
+[![Node.js](https://img.shields.io/badge/Node.js-required-339933)](https://nodejs.org/)
+[![Status](https://img.shields.io/badge/Play-Released-brightgreen)](https://play.modiqo.ai/ajayrathod04/reality-check@0.1.0)
+[![Version](https://img.shields.io/badge/Version-0.1.0-blue)](https://play.modiqo.ai/ajayrathod04/reality-check@0.1.0)
+
+> **Can this workflow be trusted when run again?**
+
 > **Can this workflow be trusted when run again?**
 
 RealityCheck is a reproducibility-investigation **Rote Play** that runs the same workflow through a controlled three-run sequence, compares the observable result and artifact evidence, detects hidden persistent state, and explains *why* a replay changed.
